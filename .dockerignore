@@ -1,0 +1,6 @@
+foo
+foo/*
+bar/**
+bar/**/
+foobar/**/.git
+foobar/a/?
