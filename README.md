@@ -28,3 +28,6 @@ $ dire
 
 ## Author
 Nao YONASHIRO(@orisano)
+
+## License
+Apache 2.0
