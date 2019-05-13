@@ -15,7 +15,8 @@ bar/**
 bar/**/
 foobar/**/.git
 foobar/a/?
-
+```
+```
 $ dire
 ^foo$
 ^foo/[^/]*$
