@@ -27,7 +27,7 @@ $ dire
 ```
 
 ## Author
-Nao YONASHIRO(@orisano)
+Nao Yonashiro (@orisano)
 
 ## License
 Apache 2.0
