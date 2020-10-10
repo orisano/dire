@@ -178,7 +178,7 @@
   END OF TERMS AND CONDITIONS
 
   Copyright 2013-2017 Docker, Inc.
-  Modifications copyright (C) 2019 Nao YONASHIRO
+  Modifications copyright (C) 2019 Nao Yonashiro
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
